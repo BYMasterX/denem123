@@ -1,9 +1,8 @@
-
 {
 	"servers":
 	[
 		{
-			"name": "RUNAWAY Zombie sEscape",
+			"name": "RUNAWAY Zombie Escape",
 			"mapList": "https://runawaytr.com/ze-maps.csv",
 			"fastDL": "http://cscenterfastdl.oyuncevheri.com/csx/maps/",
 			"appID": "730",
