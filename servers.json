@@ -14,6 +14,13 @@
             		"fastDL": "http://cscenterfastdl.oyuncevheri.com/csx/maps/",
             		"appID": "730",
 			"mapsDirectory": "\\csgo\\maps\\"
-		}
-	]
+		},
+		{
+            		"name": "RUNAWAY Bhop",
+            		"mapList": "https://runawaytr.com/bhop-maps.csv",
+          		"fastDL": "http://cscenterfastdl.oyuncevheri.com/csx/maps/",
+           		"appID": "730",
+           		"mapsDirectory": "\\csgo\\maps\\"
+        	}
+      ]
 }
