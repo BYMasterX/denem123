@@ -3,11 +3,11 @@
 	"servers":
 	[
 		{
-            "name": "RUNAWAY Zombie Escape",
-            "mapList": "https://runawaytr.com/ze-maps.csv",
-            "fastDL": "http://cscenterfastdl.oyuncevheri.com/csx/maps/",
-            "appID": "730",
-            "mapsDirectory": "\csgo\maps\"
+			"name": "RUNAWAY Zombie sEscape",
+			"mapList": "https://runawaytr.com/ze-maps.csv",
+			"fastDL": "http://cscenterfastdl.oyuncevheri.com/csx/maps/",
+			"appID": "730",
+			"mapsDirectory": "\\csgo\\maps\\"
 		},
 		{
 			"name": "Zeddy Zombie Escape",
